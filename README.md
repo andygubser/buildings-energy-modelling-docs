@@ -1,4 +1,4 @@
-# buildings-energy-modelling-docs
+# Modelling the energy demand of individual buildings in Switzerland
 
 ## Documents
 - Master Thesis: Main Document
@@ -7,6 +7,7 @@
 - Key words
 
 ## contact
-email: andy.gubser@pm.me
-github: https://github.com/andygubser
-linkedin: https://www.linkedin.com/in/andygubser/
+email: andy.gubser@pm.me  
+github: https://github.com/andygubser  
+linkedin: https://www.linkedin.com/in/andygubser/  
+
