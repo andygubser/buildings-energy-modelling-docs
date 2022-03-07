@@ -2,10 +2,12 @@
 # Modelling the energy demand of individual buildings in Switzerland
 
 ## Documents
-- Master Thesis: Main Document
-- Short version: Management Summary & Table of Content  
-- Appendices: Bibliography, Results of Regressor Validation, Results of Subset Validation, Survey Questionnaire
-- Key words
+- MT_Buildings_Energy_Modelling.pdf \rightarrow full document
+- other versions
+    - Master Thesis
+    - Short version
+    - Appendices
+    - Key words
 
 ## contact
 email: andy.gubser@pm.me  
