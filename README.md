@@ -9,7 +9,6 @@
     - Key words
 
 ## contact
-email: andy.gubser@pm.me  
 github: https://github.com/andygubser  
 linkedin: https://www.linkedin.com/in/andygubser/  
 
